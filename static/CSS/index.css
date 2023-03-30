@@ -1,6 +1,10 @@
 body{
     background-color: rgba(242, 242, 242, 0.871);
 }
+
 .header{
-    background-color: rgb(171, 113, 225);
+    background-color: rgb(171, 113, 225);   
+}
+.nav-link{
+    color: white;
 }
