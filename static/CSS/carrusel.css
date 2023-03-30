@@ -2,9 +2,10 @@ h1{
     color: black;
     font-family: fantasy;
 }
-
-#carouselExampleFade{
-    margin-right: 5%;
-    margin-left: 5%;
-    margin-block: 5%;
+.carousel{
+    border: 2px solid black;
+}
+.d-block{
+    width: 1200px;
+    height: 675px;
 }
